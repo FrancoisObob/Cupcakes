@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/francois/DevPerso/CupcakeCorner/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
